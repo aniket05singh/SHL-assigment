@@ -1,0 +1,73 @@
+{
+  "id": "graduate_general",
+  "turns": [
+    {
+      "user": "Graduate hire general population cognitive"
+    },
+    {
+      "user": "Ability and aptitude, english"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Verify - General Ability Screen",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - G+",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - Deductive Reasoning",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - Following Instructions",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - Numerical Ability",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability",
+      "test_type": "A"
+    },
+    {
+      "name": "SHL Verify Interactive G+",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - Inductive Reasoning (2014)",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify - Working with Information",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify G+ - Candidate Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify Interactive Ability Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify Interactive G+ Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report",
+      "test_type": "A"
+    },
+    {
+      "name": "Verify Interactive Process Monitoring",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring",
+      "test_type": "A"
+    }
+  ]
+}

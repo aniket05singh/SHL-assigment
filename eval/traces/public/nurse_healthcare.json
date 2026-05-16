@@ -1,0 +1,18 @@
+{
+  "id": "nurse_healthcare",
+  "turns": [
+    {
+      "user": "Hiring registered nurse for hospital"
+    },
+    {
+      "user": "Clinical knowledge and patient care"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Nursing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/nursing-new",
+      "test_type": "K"
+    }
+  ]
+}

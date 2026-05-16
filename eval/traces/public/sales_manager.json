@@ -1,0 +1,73 @@
+{
+  "id": "sales_manager",
+  "turns": [
+    {
+      "user": "Regional sales manager role"
+    },
+    {
+      "user": "Need leadership personality and sales skills assessments"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Sales Transformation Report 1.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation Report 2.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Interview Guide",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Profiler Cards",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards",
+      "test_type": "P"
+    },
+    {
+      "name": "Entry Level Sales Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ MQ Sales Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales & Service Phone Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation 1.0 - Individual Contributor",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation 2.0 - Individual Contributor",
+      "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Leadership Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report",
+      "test_type": "P"
+    },
+    {
+      "name": "Enterprise Leadership Report 1.0",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report",
+      "test_type": "P"
+    },
+    {
+      "name": "Enterprise Leadership Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0",
+      "test_type": "P"
+    }
+  ]
+}

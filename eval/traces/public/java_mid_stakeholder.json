@@ -1,0 +1,73 @@
+{
+  "id": "java_mid_stakeholder",
+  "turns": [
+    {
+      "user": "I am hiring a Java developer who works with stakeholders"
+    },
+    {
+      "user": "Mid-level, around 4 years"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Business Communication (adaptive)",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive",
+      "test_type": "K"
+    },
+    {
+      "name": "Core Java (Advanced Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Core Java (Entry Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+      "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7",
+      "test_type": "K"
+    },
+    {
+      "name": "Business Communications",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communications",
+      "test_type": "K"
+    },
+    {
+      "name": "Informatica (Developer) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Java 8 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/java-8-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Java Frameworks (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Enterprise Java Beans (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Java Design Patterns (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Java Web Services (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new",
+      "test_type": "K"
+    },
+    {
+      "name": ".NET MVVM (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new",
+      "test_type": "K"
+    }
+  ]
+}

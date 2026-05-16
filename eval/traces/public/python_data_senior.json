@@ -1,0 +1,73 @@
+{
+  "id": "python_data_senior",
+  "turns": [
+    {
+      "user": "Senior Python data engineer, 8 years experience"
+    },
+    {
+      "user": "Need technical skills and cognitive ability, under 45 minutes"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Python (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/python-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Verify - Technical Checking - Next Generation",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation",
+      "test_type": "A"
+    },
+    {
+      "name": "Data Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/data-science-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Data Warehousing Concepts",
+      "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts",
+      "test_type": "K"
+    },
+    {
+      "name": "Entry Level Technical Support Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution",
+      "test_type": "P"
+    },
+    {
+      "name": "Data Entry Ten Key Split Screen",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen",
+      "test_type": "K"
+    },
+    {
+      "name": "Data Entry Numeric Split Screen - US",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us",
+      "test_type": "K"
+    },
+    {
+      "name": "Data Entry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-new",
+      "test_type": "S"
+    },
+    {
+      "name": ".NET Framework 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5",
+      "test_type": "K"
+    },
+    {
+      "name": "Automata Data Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new",
+      "test_type": "S"
+    },
+    {
+      "name": "Automata Data Science Pro (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new",
+      "test_type": "S"
+    },
+    {
+      "name": "Multitasking Ability",
+      "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability",
+      "test_type": "K"
+    }
+  ]
+}

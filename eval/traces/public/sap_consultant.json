@@ -1,0 +1,73 @@
+{
+  "id": "sap_consultant",
+  "turns": [
+    {
+      "user": "SAP SD consultant hiring"
+    },
+    {
+      "user": "Professional individual contributor, configuration skills"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "SAP SD (Sales and Distribution) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Sales Transformation Report 1.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation Report 2.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "SAP Basis (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP Hybris (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP Materials Management (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP ABAP (Advanced Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP ABAP (Intermediate Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP Business Objects WebI (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SAP BW (Business Warehouse) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Sales & Service Phone Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation",
+      "test_type": "S"
+    },
+    {
+      "name": "Sales Interview Guide",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide",
+      "test_type": "P"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "personality_only",
+  "turns": [
+    {
+      "user": "I want personality and behavior assessment OPQ"
+    },
+    {
+      "user": "For manager role, no technical tests"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "OPQ Manager Plus Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Manager Plus Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ User and Managers Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Leadership Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report",
+      "test_type": "P"
+    },
+    {
+      "name": "Digital Readiness Development Report - Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation Report 1.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "Sales Transformation Report 2.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Team Types & Leadership Styles Profile",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Team Types and Leadership Styles Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Profile Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ User Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-report",
+      "test_type": "P"
+    },
+    {
+      "name": "OPQ Candidate Plus Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report",
+      "test_type": "P"
+    }
+  ]
+}

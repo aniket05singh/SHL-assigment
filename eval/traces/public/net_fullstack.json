@@ -1,0 +1,73 @@
+{
+  "id": "net_fullstack",
+  "turns": [
+    {
+      "user": "Hiring .NET full stack developer"
+    },
+    {
+      "user": "Mid-professional, MVC and SQL skills"
+    }
+  ],
+  "relevant": [
+    {
+      "name": ".NET MVC (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new",
+      "test_type": "K"
+    },
+    {
+      "name": ".NET WCF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Automata - SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new",
+      "test_type": "S"
+    },
+    {
+      "name": ".NET WPF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new",
+      "test_type": "K"
+    },
+    {
+      "name": ".NET Framework 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5",
+      "test_type": "K"
+    },
+    {
+      "name": "ASP .NET with C# (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new",
+      "test_type": "K"
+    },
+    {
+      "name": ".NET XAML (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new",
+      "test_type": "K"
+    },
+    {
+      "name": ".NET MVVM (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-new",
+      "test_type": "K"
+    },
+    {
+      "name": "SQL Server (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-new",
+      "test_type": "K"
+    },
+    {
+      "name": "Informatica (Developer) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new",
+      "test_type": "K"
+    },
+    {
+      "name": "ASP.NET 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5",
+      "test_type": "K"
+    }
+  ]
+}

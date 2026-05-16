@@ -1,0 +1,73 @@
+{
+  "id": "contact_center",
+  "turns": [
+    {
+      "user": "Hiring contact center customer service agents"
+    },
+    {
+      "user": "Entry level, multitasking and communication important"
+    }
+  ],
+  "relevant": [
+    {
+      "name": "Entry Level Customer Serv-Retail & Contact Center",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center",
+      "test_type": "P"
+    },
+    {
+      "name": "Customer Service Phone Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation",
+      "test_type": "B"
+    },
+    {
+      "name": "Entry Level Customer Service (General) Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution",
+      "test_type": "P"
+    },
+    {
+      "name": "Customer Service Phone Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution",
+      "test_type": "B"
+    },
+    {
+      "name": "WriteX - Email Writing (Customer Service) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new",
+      "test_type": "S"
+    },
+    {
+      "name": "Contact Center Call Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new",
+      "test_type": "S"
+    },
+    {
+      "name": "Multitasking Ability",
+      "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability",
+      "test_type": "K"
+    },
+    {
+      "name": "Sales & Service Phone Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation",
+      "test_type": "S"
+    },
+    {
+      "name": "Sales & Service Phone Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution",
+      "test_type": "P"
+    },
+    {
+      "name": "Business Communication (adaptive)",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive",
+      "test_type": "K"
+    },
+    {
+      "name": "Retail Sales and Service Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation",
+      "test_type": "K"
+    },
+    {
+      "name": "Business Communications",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communications",
+      "test_type": "K"
+    }
+  ]
+}
