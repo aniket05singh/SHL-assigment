@@ -42,6 +42,16 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+async def root() -> dict:
+    """Friendly landing page when opening the service URL in a browser."""
+    return {
+        "service": "SHL Assessment Advisor",
+        "status": "ok",
+        "endpoints": {"health": "GET /health", "chat": "POST /chat"},
+    }
+
+
 @app.get("/health", response_model=HealthResponse)
 async def health() -> HealthResponse:
     return HealthResponse(status="ok")
